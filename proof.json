@@ -1,0 +1,10 @@
+{
+  "schema": "technocore-contribution-proof-v2",
+  "artifact_url": "https://github.com/pon524/technocore-did-field-note",
+  "commit": "edcaab7424289b01948cec569328735e4ec3409d",
+  "did": "did:key:z6MkmzXFmyrF3j1BJ5hWphvojrTWLjV1qLqtkKPVkrR22bWK",
+  "issued_at": 1795558106,
+  "expires_at": 1803340800,
+  "nonce": "d3f39f7ed7bb9b0c0abe9f8156e1e738",
+  "signature": "TQRAiJTFbM2XxdXOO7YLfDGCjPofLEgoEKH2BLUfhFkMgZHd-Q7yCkPJsVMgdwNVBxX1wOa1JwAYuGXp9lD3BA"
+}
